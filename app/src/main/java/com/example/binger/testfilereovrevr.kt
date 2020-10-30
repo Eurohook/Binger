@@ -1,3 +1,5 @@
 package com.example.binger
 
-fun addSomethingNew(){}
+fun addSomethingNew(){
+    println("Hello world")
+}
